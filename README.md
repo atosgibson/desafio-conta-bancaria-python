@@ -1,4 +1,4 @@
-# Desafio: Sistema Bancário em Python 🏦
+# Desafio: Sistema Bancário em Python
 
 Este projeto foi desenvolvido como parte do bootcamp de Python, com o objetivo de aplicar os conceitos de:
 
